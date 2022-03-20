@@ -28,6 +28,9 @@ Best case: O(n)
 ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 Adım 1: 3, 7, 5, 8, 2, 9, 4, 15, 6
+
 Adım 2: 3, 5, 7, 8, 2, 9, 4, 15, 6
+
 Adım 3: 3, 5, 7, 8, 2, 9, 4, 15, 6
+
 Adım 4: 2, 3, 5, 7, 8, 9, 4, 15, 6
